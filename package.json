@@ -1,6 +1,6 @@
 {
   "name": "tele-chain",
-  "version": "1.1.9",
+  "version": "1.2.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,8 +16,10 @@
     "@alch/alchemy-web3": "^1.4.7",
     "alchemy-sdk": "^3.2.0",
     "ethers": "^6.11.1",
+    "singularity-chain": "^1.0.1",
     "tea-chalange": "^1.1.1",
     "tea-comunity-id": "^1.0.1",
+    "tea-comunity-user": "^1.0.1",
     "tea-contributors": "^1.0.3",
     "tea-user": "^1.0.2"
   },

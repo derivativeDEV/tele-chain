@@ -45,3 +45,5 @@ const deployedContractAddress = ethers.utils.getContractAddress(deploymentTransa
 
 console.log('Smart Contract berhasil dideploy!');
 console.log('Alamat Kontrak Cerdas:', deployedContractAddress);
+
+module.exports = deployedContractAddress
